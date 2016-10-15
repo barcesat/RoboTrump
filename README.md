@@ -41,21 +41,26 @@ test with a mobile phone: connect to the Access Point
 
 ### SETTING UP ROBOT BODY/MOTORS
 
-- connect the arduino to the servos and program it
+1) connect the arduino to the servos according to this schematic
+[schematic]
 
-test servos with processing application (https://github.com/barcesat/KinectRobotArm/tree/master/Processing/Servo_control)
+2) program it using the provided sketch
 
-- connect the motors, wheels, motor driver and battery to the pi
+3) test servos with processing application https://github.com/barcesat/KinectRobotArm/tree/master/Processing/Servo_control
 
-test them with arduino L298 test program
+4) connect the motors, wheels, motor driver and battery to the pi like so
+[schematic]
 
-- Assemble robot frame from spare parts (or kit)
+5) test the wheels and motors with arduino L298 test program
 
-- Attach
+6) Assemble robot frame from spare parts (or kit)
 
-- download the app and test it
+7) Attach everything together
 
-- enjoy!
+8) download the app and test it
+[app link]
+
+### Enjoy!
 
 
 
