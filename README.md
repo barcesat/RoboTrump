@@ -38,6 +38,11 @@ sudo apt-get install python-opencv
 5) setup local hotspot using this guide
 https://learn.adafruit.com/setting-up-a-raspberry-pi-as-a-wifi-access-point?view=all
 test with a mobile phone: connect to the Access Point
+the ip in the software is 192.168.0.100
+
+6) stuff to fix
+enable serial0
+http://raspberrypi.stackexchange.com/questions/45570/how-do-i-make-serial-work-on-the-raspberry-pi3
 
 ### SETTING UP ROBOT BODY/MOTORS
 
